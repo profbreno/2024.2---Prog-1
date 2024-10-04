@@ -28,39 +28,26 @@ Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, s
 
 **Etapa 1**
 
-- Definição dos times: enviar por email com o título "[LP1-2024.2] Time do projeto" indicando os membros (nome completo e turma) e quem será o líder do time.
-- [Ata da primeira reunião com cliente](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/reuniao.md) (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
-- Criação de [histórias de usuários](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md) (HU);
-- Criação de [testes de aceitação](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md) para as Histórias de usuários;
-- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Etapa 1**.
+- Definição dos times: Postar na sala de aula do classroom qual o projeto e os membros (nome completo) e quem será o líder do time.
+- [Ata da primeira reunião com cliente](https://github.com/profbreno/2024.2---Prog-1/blob/main/reuniao.md) (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
+- Criação de [histórias de usuários](https://github.com/profbreno/2024.2---Prog-1/blob/main/user_stories.md) (HU);
+- Criação de [testes de aceitação](https://github.com/profbreno/2024.2---Prog-1/blob/main/user_stories.md) para as Histórias de usuários;
 
 **Etapa 2**
 
-- Criação do planejamento da iteração;
-- Diagrama de Classes (Análise);
-- Diagrama de Sequência (Análise);
-- [Histórias definidas](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md), claras, concisas, com entrega de valor bem definida;
-- Criação de **Storyboards**;
 - Ambiente de versionamento atuante (com *commits* frequentes);
 - *Issue tracker* atualizado;
 - Pelo menos uma entrega para o cliente: *deploy* de algumas HU's;
-- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Etapa 2**.
 
 **Etapa 3**
 
 - Continuação do desenvolvimento;
-- [Histórias definidas](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md), claras, concisas, com entrega de valor bem definida;
+- [Histórias definidas](https://github.com/profbreno/2024.2---Prog-1/blob/main/user_stories.md), claras, concisas, com entrega de valor bem definida;
 - Ambiente de versionamento atuante (com *commits* frequentes);
 - *Issue tracker* atualizado;
-- Diagramas de *Use Cases* com especificação dos completa dos cenários (Projeto);
-- Diagrama de Classes (Projeto);
-- Diagrama de Sequência (Projeto);
-- Modelo entidade e relacionamento;
 - Integração contínua;
 - Entregas frequentes;
 - Nova entrega para o cliente: deploy de mais algumas HU's;
-- Artefatos para garantir continuidade do projeto;
-- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Etapa 3**.
 
 **Etapa 4**
 
@@ -68,15 +55,11 @@ Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, s
 - Histórias definidas, claras, concisas, com entrega de valor bem definida;
 - Ambiente de versionamento atuante (com commits frequentes);
 - *Issue tracker* atualizado;
-- Diagramas de Atividade;
 - Integração contínua;
 - Entregas frequentes;
 - Última entrega para o cliente: deploy de mais algumas HU's;
-- Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto ([Vide "Organizando o projeto para iniciantes"](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/Projeto.md#o-que-documentar-neste-projeto));
-- Documento com todos os artefatos gerados;
-- Screencast curto (até 3 minutos) de utilização do produto (contendo legenda ou voz);
-- Apresentação (Slides) em formato PDF;
-- [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Etapa 4**.
+- Página de Projeto ensinando como executar o projeto e colaborar [Exemplo](https://github.com/profbreno/2024.2---Prog-1/blob/main/readme.md);
+- Apresentação (Slides);
 
 ## Sugestões para reuniões com clientes
 
@@ -87,7 +70,6 @@ Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, s
 - Se você é consistentemente incapaz de obter uma resposta do seu cliente, apesar de seguir todas as orientações acima, deixe um de nós saber (professor, instrutores, monitores). Não fique esperando que o sucesso do seu projeto seja responsabilidade do seu cliente.
 
 ### O que documentar neste projeto?
-
 
 Documentação em projetos/produtos digitais é importante para transferir conhecimento sobre o projeto. Prazo para completarem a documentação é o final da **Iteração 4**. Nas próximas seções são descritos os requisitos de documentação dos projetos desta disciplina:
 
@@ -103,9 +85,8 @@ Sabemos que o principal artefato de um projeto é o código em si, afinal é ele
 
 - Histórias desenvolvidas, com link para a versão correspondente no repositório.
 - Lista de bugs conhecidos e dívida técnica como “issues”.
-- Diagramas de UML;
-- Apresentações de showcase/screencast (fazer upload de todas), com link para a versão correspondente no repositório.
-- Fazer um documento com todos os artefatos criados, colete fotos do time e do ambiente. Descreva um pouco sobre como isso ajudou o desenvolvimento e lições aprendidas.
+- Apresentações do projeto em sala de aula.
+- Página de iniciantes do projeto.
 
 **Organizando o projeto (de software livre) para iniciantes**
 
@@ -126,7 +107,6 @@ Você vai apresentar um resumo, de até **10 minutos**, do problema do seu clien
 1. Visão geral do Produto
   - [*Elevator pitch*](https://blog.contaazul.com/o-que-e-elevator-pitch-e-como-criar-sua-melhor-apresentacao) do produto (o que ele resolve, para que público, qual o diferencial etc)
   - Visão geral da solução e como usar (alto nível)
-  - Diagramas criados
 2. Processo de trabalho
   - Como organizaram a comunicação ao longo do projeto
   - Lições aprendidas do processo de trabalho
