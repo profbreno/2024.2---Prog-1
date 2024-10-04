@@ -1,6 +1,6 @@
 # Projeto
 
-Os alunos deverão desenvolver um projeto em equipes de no máximo **cinco componentes**. As avaliações serão compartilhados entre todos os membros (ou seja, o projeto recebe uma nota, não cada aluno em separado), e vamos exigir informações específicas sobre o papel de cada membro da equipe. A intenção é que as equipes desenvolvam, preferencialmente, projetos voltados para beneficiar a sociedade, de alguma forma, seja para organização vinculadas ao campus do IFBA, organizações sem fins lucrativos, para construir uma solução voltada para melhorar a qualidade de vida dos cidadãos ou explorar um nicho de mercado.
+Os alunos deverão desenvolver um projeto em equipes de no máximo **cinco componentes**. As avaliações serão compartilhados entre todos os membros (ou seja, o projeto recebe uma nota, não cada aluno em separado), e vamos exigir informações específicas sobre o papel de cada membro da equipe. A intenção é que as equipes desenvolvam, preferencialmente, projetos voltados para beneficiar a sociedade, de alguma forma, seja para organização vinculadas ao campus do IF Sertão PE, organizações sem fins lucrativos, para construir uma solução voltada para melhorar a qualidade de vida dos cidadãos ou explorar um nicho de mercado.
 
 > "Mas professor, eu tenho uma proposta que pode ser um bom projeto para o curso!"
 
@@ -12,7 +12,7 @@ Os requisitos a seguir são os únicos inegociáveis para um projeto ser elegív
 
 1. Deve endereçar a resolução de um problema "_computacionável_".
 1. O projeto/implementação deve ser uma aplicação escrito em uma linguagem de programação de sua preferência. A adoção de tecnologias Web é recomendada (*Front-end* e *Back-end*), mas não obrigatória.
-1. Seu código não precisa ter uma licença aberta  -- ele é de sua autoria e você pode licenciá-lo como quiser -- mas para fins pedagógicos ele deve ser acessível ao público no GitHub durante o período da disciplina. Adicionalmente, o professor tem a gestão da conta educacional do GitHub para o IFBA, que permite mais *features* e funcionalidades como, manter o projeto público apenas para os integrantes da organização educacional ao qual o projeto está vinculado. (Se você estiver trabalhando com uma organização sem fins lucrativos, o encorajamos a pedir para lhe darem uma licença aberta para que o seu cliente possa continuar a usá-lo depois que você concluir suas atividades na disciplina.)
+1. Seu código não precisa ter uma licença aberta  -- ele é de sua autoria e você pode licenciá-lo como quiser -- mas para fins pedagógicos ele deve ser acessível ao público no GitHub durante o período da disciplina. Adicionalmente, o professor tem a gestão da conta educacional do GitHub para o IF Sertão PE, que permite mais *features* e funcionalidades como, manter o projeto público apenas para os integrantes da organização educacional ao qual o projeto está vinculado. (Se você estiver trabalhando com uma organização sem fins lucrativos, o encorajamos a pedir para lhe darem uma licença aberta para que o seu cliente possa continuar a usá-lo depois que você concluir suas atividades na disciplina.)
 1. O escopo deve ser adequada para uma equipe de até 5 pessoas trabalhando por 8-10 semanas. O Professor pode ajudá-lo na definição de um escopo exequível. Os projetos que são demasiado grandes serão subdivididos em serviços que se comunicam separadamente, de modo que cada time não seja maior do que uma equipe com 5 membros.
 1. Todos os membros da equipe do projeto devem ser estudantes matriculados na disciplina.
 
@@ -24,15 +24,12 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 
 ## Quais são os artefatos (produtos de trabalho) entregáveis (deliverables) do projeto
 
-Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, são apresentados na tabela abaixo. Entretanto, é recomendável que todos conheçam os pesos de cada uma das entregas em suas respectivas iterações. A listagem com os pesos está disponível neste [**link**](https://docs.google.com/spreadsheets/d/1H1SUqUlgh1J7EXWGFy24r3FUxWXgUEFaDpjOlSxbhTg/edit?usp=sharing).
+Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, são apresentados na tabela abaixo. Entretanto, é recomendável que todos conheçam os pesos de cada uma das entregas em suas respectivas iterações. A listagem com os pesos está disponível neste [**link**](https://docs.google.com/spreadsheets/d/1FdvjqKH8h4Nus1XyvxKnbMu0PAgaNzuA6-Pd4SdGuec/edit?usp=sharing).
 
 **Etapa 1**
 
-- Definição dos times: enviar por email com o título "[APS2021] Time do projeto" indicando os membros (nome completo e turma) e quem será o líder do time.
+- Definição dos times: enviar por email com o título "[LP1-2024.2] Time do projeto" indicando os membros (nome completo e turma) e quem será o líder do time.
 - [Ata da primeira reunião com cliente](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/reuniao.md) (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
-- Criação do [documento de definição do projeto](https://docs.google.com/document/d/1tSGvz-Sw9JqjILZVyViVclcV1_syvg1uU1xkoq7T73M/edit?usp=sharing);
-- Projeto criado no github com página de [README](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/readme.md) contendo informações do time e do projeto;
-- Criação de [diagramas de *Use Cases*](https://docs.google.com/document/d/1zOgcPUjllpijLNhKVoFPyQXtG7wHfNclvgUWLzfNN6E/edit?usp=sharing) com especificação dos completa dos cenários; 
 - Criação de [histórias de usuários](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md) (HU);
 - Criação de [testes de aceitação](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/user_stories.md) para as Histórias de usuários;
 - [Retrospectiva](https://github.com/IFBA-EUC/LP1-descricao-projeto-final-2021/blob/main/retrospectiva.md) da **Etapa 1**.
