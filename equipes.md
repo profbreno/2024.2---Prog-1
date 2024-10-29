@@ -1,11 +1,16 @@
 # Equipes
 
-## (1) Nome do Projeto: Controle de vendas
+## (1) Nome do Projeto: Clínica de Fisioterapia (FISIOMAIS)
 
-- Glendah Silva Costa (glendacosta432@gmail.com);
-- Lauanda Jones Almeida da Silva (lauandajones32123@gmail.com);
-- Luciane Eloiza Abreu de Oliveira (eloiza12abreeu@gmail.com);
-- Mariane Barbosa Torres (torresmariane76@gmail.com);
-- Vitória Dantas de Oliveira (vitoriadantasoliveira.vd@gmail.com) \*
+- Aluno
+\*
+
+Link do projeto: [Link]()
+
+
+## (2) Nome do Projeto: Studio de Pilates (FISIOMAIS)
+
+- Aluno
+\*
 
 Link do projeto: [Link]()
