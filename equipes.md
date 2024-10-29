@@ -20,7 +20,6 @@
 - RAMON
 - ALVARO
 - JEFFERSON
-\*
 
 Link do projeto: [Link]()
 
