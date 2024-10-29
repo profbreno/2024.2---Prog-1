@@ -2,7 +2,24 @@
 
 ## (1) Nome do Projeto: Clínica de Fisioterapia (FISIOMAIS)
 
-- Aluno
+- VICTOR
+- MARINA
+- MARIA EDUARDA SANTOS
+- GLENDHA
+- ERIC
+- FILIPE
+- JENNIE
+- ANA BEATRIZ
+- GIORRANA
+- MARIA EDUARDA MARQUES
+- EDUARDO
+- LUCAS
+- MIGUEL 
+- GABRIEL
+- EMANUEL
+- RAMON
+- ALVARO
+- JEFFERSON
 \*
 
 Link do projeto: [Link]()
