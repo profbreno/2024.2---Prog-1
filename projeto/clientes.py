@@ -15,12 +15,15 @@ financeiro
 mensalidades
 '''
 
-from projeto.usuarios import Usuarios
+from usuarios import Usuarios
 
 class Cliente(Usuarios):
     def __init__(self, prontuario, nome, email, telefone, data_nascimento, endereco, data_cadastro):
         super().__init__(nome, email, telefone, data_nascimento, endereco, data_cadastro)
         self.prontuario = prontuario
+
+    def login(self):
+        return "Cliente logado com sucesso!"
         
     def __str__(self):
         return f'Cliente: {self.nome}'
