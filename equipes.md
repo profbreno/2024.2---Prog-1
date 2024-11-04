@@ -2,7 +2,7 @@
 
 ## (1) Nome do Projeto: Clínica de Fisioterapia (FISIOMAIS)
 
-- VICTOR
+- VICTOR \*
 - MARINA
 - MARIA EDUARDA SANTOS
 - GLENDHA
@@ -26,7 +26,16 @@ Link do projeto: [Link]()
 
 ## (2) Nome do Projeto: Studio de Pilates (FISIOMAIS)
 
-- Aluno
-\*
+- Débora \*
+- Maria Eduarda Pereira
+- Victor De Souza
+- Letícia Torres
+- Fernanda Menezes
+- Gabriela Nayara
+- Gabriela Marques
+- Emily Iorrane
+- Clênio Lopes
+- Crislaine
+- Alicia Nogueira
 
 Link do projeto: [Link]()
