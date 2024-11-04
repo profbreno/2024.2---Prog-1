@@ -37,5 +37,6 @@ Link do projeto: [Link]()
 - Clênio Lopes
 - Crislaine
 - Alicia Nogueira
+- Joaquim
 
 Link do projeto: [Link]()
